@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_9.0"
+export FOX_BRANCH="fox_7.1"
 export DT_LINK="https://github.com/gorkemoji/android_device_samsung_zerolteusc.git -b master"
 
 export DEVICE="zerolteusc"
