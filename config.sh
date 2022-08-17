@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_9.0"
-export DT_LINK="https://github.com/gorkemoji/android_device_samsung_zerolteusc.git -b master"
+export DT_LINK="https://github.com/gorkemoji/android_device_samsung_zerolteusc.git -b fox_9.0-testing"
 
 export DEVICE="zerolteusc"
 export OEM="samsung"
