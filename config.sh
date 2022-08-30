@@ -17,9 +17,6 @@ export OUTPUT="OrangeFox*.zip"
 
 # Additional Dependencies (eg: Kernel Source)
 # Format: "repo dest"
-DEPS=(
-    "https://github.com/OrangeFoxRecovery/Avatar.git misc"
-)
 
 # Magisk
 ## Use the Latest Release of Magisk for the OrangeFox addon
