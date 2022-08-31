@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_6.0"
-export DT_LINK="https://github.com/gorkemoji/android_device_samsung_zerolteusc-ofox.git -b fox_6.0"
+export FOX_BRANCH="fox_9.0"
+export DT_LINK="https://github.com/gorkemoji/android_device_samsung_zerolteusc-ofox.git -b fox_9.0-testing"
 
 export DEVICE="zerolteusc"
 export OEM="samsung"
